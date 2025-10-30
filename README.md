@@ -29,7 +29,6 @@ The project uses a local **SQLite** database (`Database.db`) and **Entity Framew
   ```bash
   Microsoft.EntityFrameworkCore
   Microsoft.EntityFrameworkCore.Sqlite
-  Microsoft.EntityFrameworkCore.Tools
   Microsoft.Data.Sqlite
 
 ### Step 2. Setup (Developer Environment)
